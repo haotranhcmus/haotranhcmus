@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey! Nice to see you 👋
 
-<!--
-**haotranhcmus/haotranhcmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Mathematics & Computer Science at the University of Science.
+- 📫 How to reach me: Email: [haotranhcmus@gmail.com](mailto:haotranhcmus@gmail.com)
 
-Here are some ideas to get you started:
+## 💼 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages & Scripting**: Python, C/C++, JavaScript
+- **Operating Systems**: Windows
+- **Development Tools**: Visual Studio Code, Visual Studio.
+  
+## 🌍 Languages
+- **Vietnamese**: Native Speaker

@@ -1,6 +1,6 @@
 # Hey! Nice to see you 👋
 
-I am a Mathematics & Computer Science at the University of Science.
+I am a Mathematics & Computer Science student at the University of Science.
 - 📫 How to reach me: Email: [haotranhcmus@gmail.com](mailto:haotranhcmus@gmail.com)
 
 ## 💼 Skills
